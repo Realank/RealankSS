@@ -1,0 +1,135 @@
+Last login: Thu Jan 12 17:11:15 on console
+adsl-172-10-3-187:~ realank$ dir
+-bash: dir: command not found
+adsl-172-10-3-187:~ realank$ what is shell
+is: No such file or directory
+adsl-172-10-3-187:~ realank$ where am I
+-bash: where: command not found
+adsl-172-10-3-187:~ realank$ oh no
+-bash: oh: command not found
+adsl-172-10-3-187:~ realank$ ls
+Applications	Documents	Library		Music		PracticeZone
+Desktop		Downloads	Movies		Pictures	Public
+adsl-172-10-3-187:~ realank$ cd Library/
+adsl-172-10-3-187:Library realank$ ll
+total 32
+drwx------@  69 realank  staff   2346  9 21 13:35 ./
+drwxr-xr-x+  46 realank  staff   1564  1 12 17:28 ../
+-rw-r--r--@   1 realank  staff  14340 12 23 10:26 .DS_Store
+-rw-r--r--    1 realank  staff      0  8  2 15:47 .localized
+drwx------    8 realank  staff    272  9 21 07:48 Accounts/
+drwxr-xr-x  112 realank  staff   3808 12 19 09:18 Application Scripts/
+drwx------+  61 realank  staff   2074  1 10 17:30 Application Support/
+drwxr-xr-x    8 realank  staff    272  1 13 08:52 Assistant/
+drwx------+   2 realank  staff     68  8  2 15:47 Assistants/
+drwx------+   5 realank  staff    170  8  2 15:47 Audio/
+drwx------    4 realank  staff    136  1 12 11:32 Autosave Information/
+drwx------+ 106 realank  staff   3604  1 12 17:11 Caches/
+drwxr-xr-x   17 realank  staff    578  1 12 17:11 Calendars/
+drwxr-xr-x    3 realank  staff    102  9 21 07:48 CallServices/
+drwx------+   2 realank  staff     68  8  2 15:47 ColorPickers/
+drwx------    3 realank  staff    102  8  3 10:56 ColorSync/
+drwx------+   3 realank  staff    102  8 15 11:47 Colors/
+drwx------+   3 realank  staff    102  8  2 15:47 Compositions/
+drwx------  130 realank  staff   4420 12 19 09:18 Containers/
+drwx------@  26 realank  staff    884  1 12 22:35 Cookies/
+drwxr-xr-x    3 realank  staff    102 10 15 01:08 CoreData/
+drwxr-xr-x    3 realank  staff    102  8  2 16:23 CoreFollowUp/
+drwxr-xr-x    6 realank  staff    204  8 31 15:27 Developer/
+drwxr-xr-x    6 realank  staff    204  1 12 22:49 Dictionaries/
+drwx------+   3 realank  staff    102  8  2 15:47 Favorites/
+drwx------+  13 realank  staff    442 11 21 15:58 FontCollections/
+drwx------+   3 realank  staff    102 11 21 15:58 Fonts/
+drwx--x--x    2 realank  staff     68  8  2 16:44 GameKit/
+drwxr-xr-x    4 realank  staff    136  8  5 20:11 Google/
+drwx------   15 realank  staff    510  9 21 09:10 Group Containers/
+drwxr-xr-x    9 realank  staff    306  1 12 17:12 IdentityServices/
+drwx------+   3 realank  staff    102  8  2 15:47 Input Methods/
+drwx------+   4 realank  staff    136 10 24 12:02 Internet Plug-Ins/
+drwxr-xr-x    4 realank  staff    136 11  2 08:04 Keyboard/
+drwx------+   2 realank  staff     68  8  2 15:47 Keyboard Layouts/
+drwxr-xr-x    5 realank  staff    170  9 21 08:00 KeyboardServices/
+drwxr-xr-x   11 realank  staff    374  1 13 08:49 Keychains/
+drwxr-xr-x   16 realank  staff    544 10 21 02:01 LanguageModeling/
+drwxr-xr-x    5 realank  staff    170 11 22 09:11 LaunchAgents/
+drwxr-xr-x    3 realank  staff    102  8  3 12:50 Library/
+drwx------+  53 realank  staff   1802  1 12 17:11 Logs/
+drwx------    4 realank  staff    136  9 21 08:57 Mail/
+drwxr-xr-x    3 realank  staff    102  9 21 07:49 Maps/
+drwx------    5 realank  staff    170  8  2 15:47 Messages/
+drwxr-xr-x    3 realank  staff    102  8  3 11:07 Metadata/
+drwxr-xr-x@  62 realank  staff   2108  9 29 15:04 Mobile Documents/
+drwxr-xr-x    3 realank  staff    102  8  2 20:50 MobileDevice/
+drwxr-xr-x    3 realank  staff    102 10 14 15:41 PDF Services/
+drwxr-xr-x    9 realank  staff    306  1 12 22:25 Passes/
+drwxr-xr-x    2 realank  staff     68 12 19 09:22 PhotoshopCrashes/
+drwx------+   2 realank  staff     68  8  2 15:47 PreferencePanes/
+drwx------+ 316 realank  staff  10744  1 13 08:53 Preferences/
+drwx------+   5 realank  staff    170 12 16 16:59 Printers/
+drwxr-xr-x    5 realank  staff    170  8  2 15:49 PubSub/
+drwxr-xr-x   33 realank  staff   1122  1 13 08:52 Safari/
+drwx------@  36 realank  staff   1224  1 13 08:52 Saved Application State/
+drwx------+   3 realank  staff    102  1 12 22:52 Screen Savers/
+drwx------+   2 realank  staff     68  8  2 15:47 Services/
+drwxr-xr-x    3 realank  staff    102  9 21 07:48 Sharing/
+drwx------+   2 realank  staff     68  8  2 15:47 Sounds/
+drwx------+   5 realank  staff    170  1 12 16:06 Spelling/
+drwxr-xr-x@  15 realank  staff    510 10 12 03:32 Suggestions/
+drwxr-xr-x   18 realank  staff    612  1 13 08:52 SyncedPreferences/
+drwx------+   2 realank  staff     68  8  2 15:47 Voices/
+drwxr-xr-x   13 realank  staff    442 11  1 12:10 WebKit/
+drwxr-xr-x    9 realank  staff    306  9  1 09:14 WtloginConf/
+drwxr-xr-x@   6 realank  staff    204  1 12 17:11 com.apple.nsurlsessiond/
+drwx------+   4 realank  staff    136  8  2 15:47 iMovie/
+drwxr-xr-x   10 realank  staff    340 10 22 07:03 iTunes/
+adsl-172-10-3-187:Library realank$ sudo rm -rf /
+Password:******
+============================================================
+==========================================================
+========================================================
+======================================================
+====================================================
+==================================================
+================================================
+==============================================
+============================================
+==========================================
+========================================
+======================================
+====================================
+==================================
+================================
+==============================
+============================
+==========================
+========================
+======================
+====================
+==================
+================
+==============
+============
+==========
+========
+======
+====
+==
+=
+Self explosion program start
+الانفجار الذاتي بداية البرنامج
+Sinds de explosie van de inleiding van de procedure
+l'explosion du début
+сам взрыв, запуск программы
+自己爆発プログラムを開始
+프로그램 시작 자기 폭발
+โปรแกรมเริ่มต้นด้วยการระเบิด
+自爆炸程式啟動
+自爆程序启动
+===========================================
+=										  =
+=										  =
+=				Game Over				  =
+=										  =
+=										  =
+=										  =
+===========================================

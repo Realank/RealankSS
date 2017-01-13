@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8CD6203A1E27800100E6FDA8 /* RealankSSView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CD620391E27800100E6FDA8 /* RealankSSView.h */; };
+		8CD6203C1E27800100E6FDA8 /* RealankSSView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CD6203B1E27800100E6FDA8 /* RealankSSView.m */; };
+		8CD620441E285EE000E6FDA8 /* selfexplosure.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8CD620431E285EE000E6FDA8 /* selfexplosure.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8CD620361E27800100E6FDA8 /* RealankSS.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealankSS.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CD620391E27800100E6FDA8 /* RealankSSView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RealankSSView.h; sourceTree = "<group>"; };
+		8CD6203B1E27800100E6FDA8 /* RealankSSView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RealankSSView.m; sourceTree = "<group>"; };
+		8CD6203D1E27800100E6FDA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CD620431E285EE000E6FDA8 /* selfexplosure.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = selfexplosure.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8CD620321E27800100E6FDA8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8CD6202C1E27800100E6FDA8 = {
+			isa = PBXGroup;
+			children = (
+				8CD620381E27800100E6FDA8 /* RealankSS */,
+				8CD620371E27800100E6FDA8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8CD620371E27800100E6FDA8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8CD620361E27800100E6FDA8 /* RealankSS.saver */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8CD620381E27800100E6FDA8 /* RealankSS */ = {
+			isa = PBXGroup;
+			children = (
+				8CD620391E27800100E6FDA8 /* RealankSSView.h */,
+				8CD6203B1E27800100E6FDA8 /* RealankSSView.m */,
+				8CD620431E285EE000E6FDA8 /* selfexplosure.txt */,
+				8CD6203D1E27800100E6FDA8 /* Info.plist */,
+			);
+			path = RealankSS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8CD620331E27800100E6FDA8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CD6203A1E27800100E6FDA8 /* RealankSSView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8CD620351E27800100E6FDA8 /* RealankSS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CD620401E27800100E6FDA8 /* Build configuration list for PBXNativeTarget "RealankSS" */;
+			buildPhases = (
+				8CD620311E27800100E6FDA8 /* Sources */,
+				8CD620321E27800100E6FDA8 /* Frameworks */,
+				8CD620331E27800100E6FDA8 /* Headers */,
+				8CD620341E27800100E6FDA8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RealankSS;
+			productName = RealankSS;
+			productReference = 8CD620361E27800100E6FDA8 /* RealankSS.saver */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8CD6202D1E27800100E6FDA8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = Realank;
+				TargetAttributes = {
+					8CD620351E27800100E6FDA8 = {
+						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 275X96KVEB;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 8CD620301E27800100E6FDA8 /* Build configuration list for PBXProject "RealankSS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8CD6202C1E27800100E6FDA8;
+			productRefGroup = 8CD620371E27800100E6FDA8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8CD620351E27800100E6FDA8 /* RealankSS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8CD620341E27800100E6FDA8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CD620441E285EE000E6FDA8 /* selfexplosure.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8CD620311E27800100E6FDA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CD6203C1E27800100E6FDA8 /* RealankSSView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8CD6203E1E27800100E6FDA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8CD6203F1E27800100E6FDA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8CD620411E27800100E6FDA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 275X96KVEB;
+				INFOPLIST_FILE = RealankSS/Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				PRODUCT_BUNDLE_IDENTIFIER = com.realank.RealankSS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Debug;
+		};
+		8CD620421E27800100E6FDA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 275X96KVEB;
+				INFOPLIST_FILE = RealankSS/Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				PRODUCT_BUNDLE_IDENTIFIER = com.realank.RealankSS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8CD620301E27800100E6FDA8 /* Build configuration list for PBXProject "RealankSS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CD6203E1E27800100E6FDA8 /* Debug */,
+				8CD6203F1E27800100E6FDA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CD620401E27800100E6FDA8 /* Build configuration list for PBXNativeTarget "RealankSS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CD620411E27800100E6FDA8 /* Debug */,
+				8CD620421E27800100E6FDA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8CD6202D1E27800100E6FDA8 /* Project object */;
+}
