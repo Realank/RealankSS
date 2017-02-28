@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		8CD6203A1E27800100E6FDA8 /* RealankSSView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CD620391E27800100E6FDA8 /* RealankSSView.h */; };
 		8CD6203C1E27800100E6FDA8 /* RealankSSView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CD6203B1E27800100E6FDA8 /* RealankSSView.m */; };
-		8CD620441E285EE000E6FDA8 /* selfexplosure.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8CD620431E285EE000E6FDA8 /* selfexplosure.txt */; };
+		8CD620441E285EE000E6FDA8 /* slogan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8CD620431E285EE000E6FDA8 /* slogan.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,7 +17,7 @@
 		8CD620391E27800100E6FDA8 /* RealankSSView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RealankSSView.h; sourceTree = "<group>"; };
 		8CD6203B1E27800100E6FDA8 /* RealankSSView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RealankSSView.m; sourceTree = "<group>"; };
 		8CD6203D1E27800100E6FDA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8CD620431E285EE000E6FDA8 /* selfexplosure.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = selfexplosure.txt; sourceTree = "<group>"; };
+		8CD620431E285EE000E6FDA8 /* slogan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = slogan.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			children = (
 				8CD620391E27800100E6FDA8 /* RealankSSView.h */,
 				8CD6203B1E27800100E6FDA8 /* RealankSSView.m */,
-				8CD620431E285EE000E6FDA8 /* selfexplosure.txt */,
+				8CD620431E285EE000E6FDA8 /* slogan.txt */,
 				8CD6203D1E27800100E6FDA8 /* Info.plist */,
 			);
 			path = RealankSS;
@@ -128,7 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8CD620441E285EE000E6FDA8 /* selfexplosure.txt in Resources */,
+				8CD620441E285EE000E6FDA8 /* slogan.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +278,7 @@
 				8CD620421E27800100E6FDA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
