@@ -9,7 +9,7 @@
 #import "RealankSSView.h"
 
 const NSString* slogans = @"Hello world;你好世界;世界こんにちは;Bonjour le monde";
-const NSString* slogansSmile = @" ;🌚;👨🏿‍💻;👨🏼‍💻;👨🏻‍💻;👾;💩;🤡;🤣;😶;";
+const NSString* slogansSmile = @"(｡・`ω´･);🌚;👨🏻‍💻;👾;💩;🤡;🤣;😶;(ง •̀_•́)ง;≧ω≦";
 
 #define MaxHeight 130
 @interface RealankSSView()
